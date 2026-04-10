@@ -1,0 +1,23 @@
+{
+  "name": "lidsync-downloader",
+  "version": "1.0.0",
+  "description": "Motor de descarga de audio para comandos play de WhatsApp bots",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "downloader",
+    "youtube",
+    "yt-dlp",
+    "ffmpeg",
+    "lidsync"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "yt-search": "^2.10.4"
+  }
+}
